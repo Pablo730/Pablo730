@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[[DB DeepDive #1] 인덱스의 배신: 데이터 분포와 옵티마이저의 맹점](https://pablo7.tistory.com/entry/DB-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%98-%EB%B0%B0%EC%8B%A0)
+
+[객체 생성에 관한 고찰](https://pablo7.tistory.com/entry/%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%B4)
+
+
 <!--
 **Pablo730/Pablo730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
